@@ -10,6 +10,4 @@
 end
 board=["","","","","X"," ","","","",""]
 
-puts board[0]
-
 display_board(board)
